@@ -19,6 +19,6 @@ You can often find me playing one of these games or reading these stories or one
 >What would happen if you exploded a nuclear bomb in the eye of a hurricane? Would the storm cell be immediately vaporized?
 
 His drawings make the book even better, as they add even more of his personality to the book, as he draws them himself. They may not be the greatest, but its perfect for this book.
-![image of Randall's art](https://s.wsj.net/public/resources/images/RV-AO386_BKRV_w_GR_20140919232221.jpg)
+![image of Randall's art](/otherpictures/randall's_art.jpg)
 
 
