@@ -9,6 +9,7 @@ My hobbies include reading and playing games.
 1. Valorant
 2. Minecraft
 3. Bloons Tower Defense 6
+
 My favourite books and manga are(in no particular order)
 - *"What if?"* By Randall Munroe
 - *"The Witch and the Beast"* by Kousuke Satake
