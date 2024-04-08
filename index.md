@@ -18,5 +18,5 @@ My favourite books and manga are(in no particular order)
 You can often find me playing one of these games or reading these stories or one from the same author or similar genre. However, while I like all of these stories and books equally, if you wanted a recommendation, I would tell you to read *"What if?"*. Written by the same author as the xkcd comics, it is full of impossible hypotheticals being answered completely seriously. One of my favourite questions is 
 >What would happen if you exploded a nuclear bomb in the eye of a hurricane? Would the storm cell be immediately vaporized?
 His drawings make the book even better, as they add even more of his personality to the book, as he draws them himself. They may not be the greatest, but its perfect for this book.
-![image of Randall's art](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fbook-review-what-if-by-randall-munroe-1411160673&psig=AOvVaw0Y4NKepWddDdaXNM-QBVWq&ust=1712655661307000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNC04dKpsoUDFQAAAAAdAAAAABAT)
+(![image of Randall's art](https://s.wsj.net/public/resources/images/RV-AO386_BKRV_w_GR_20140919232221.jpg))
 
