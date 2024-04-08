@@ -42,4 +42,10 @@ These are the skills/ achievements I want to accomplish by the end of the year(n
 - [ ] become more used to and comfortable using github
 - [ ] Make more friends with CS and CS related backgrounds at UCSD
 
+## My Socials
+You can always message me through one of these if you want to reach me
+- ![My instagram](https://www.instagram.com/brendon_h3/)
+- Discord: silverglasses
+
+
 
