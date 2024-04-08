@@ -14,6 +14,7 @@ My favourite books and manga are(in no particular order)
 - *"What if?"* By Randall Munroe
 - *"The Witch and the Beast"* by Kousuke Satake
 - *"Eleceed"* by Son Je-Ho and ZHENA
+
 You can often find me playing one of these games or reading these stories or one from the same author or similar genre. However, while I like all of these stories and books equally, if you wanted a recommendation, I would tell you to read *"What if?"*. Written by the same author as the xkcd comics, it is full of impossible hypotheticals being answered completely seriously. One of my favourite questions is 
 >What would happen if you exploded a nuclear bomb in the eye of a hurricane? Would the storm cell be immediately vaporized?
 
