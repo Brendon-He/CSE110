@@ -37,9 +37,9 @@ I am still learning and actively trying to increase the size of this list
 
 ## Current Goals
 These are the skills/ achievements I want to accomplish by the end of the year(not school year)
-- [] land an internship
-- [] learn and become fluent in python
-- [] become more used to and comfortable using github
-- [] Make more friends with CS and CS related backgrounds at UCSD
+- [ ] land an internship
+- [ ] learn and become fluent in python
+- [ ] become more used to and comfortable using github
+- [ ] Make more friends with CS and CS related backgrounds at UCSD
 
 
