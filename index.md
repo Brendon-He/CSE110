@@ -12,7 +12,9 @@ My hobbies include reading and playing games.
 
 My favourite books and manga are(in no particular order)
 - *"What if?"* By Randall Munroe
+![image of cover](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FWhat-If-Scientific-Hypothetical-Questions%2Fdp%2F0544272994&psig=AOvVaw1sjsVn8R-c0Q5ji8hJ0iLY&ust=1712655271898000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDas5mosoUDFQAAAAAdAAAAABAd)
 - *"The Witch and the Beast"* by Kousuke Satake
+(![alt text](71dnyuGpujL._AC_UF1000,1000_QL80_.jpg))
 - *"Eleceed"* by Son Je-Ho and ZHENA
 
 You can often find me playing one of these games or reading these stories or one from the same author or similar genre. However, while I like all of these stories and books equally, if you wanted a recommendation, I would tell you to read *"What if?"*. Written by the same author as the xkcd comics, it is full of impossible hypotheticals being answered completely seriously. One of my favourite questions is 
