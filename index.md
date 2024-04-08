@@ -2,6 +2,7 @@
 Hello, My name is Brendon He and welcome to my home page!
 ## Page Directory
 ![About Me](https://github.com/Brendon-He/CSE110/blob/main/index.md#about-me)
+
 ![My Hobbies](https://github.com/Brendon-He/CSE110/blob/main/index.md#my-hobbies)
 ## About Me
 I am an 18 year old currently living in the 6th college dorms at UCSD. I often spend my free time reading and playing games with my friends online. While I prefer working and staying inside my room, I am always willing to go out and meet up with others. Otherwise, if you want to find me you may spot me working at the Canyon Vista Marketplace at Warren.
