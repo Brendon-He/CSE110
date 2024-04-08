@@ -9,7 +9,8 @@ I am an 18 year old currently living in the 6th college dorms at UCSD. I often s
 
 ## My Hobbies
 My hobbies include reading and playing games. 
-    My favourite games are 
+
+My favourite games are 
 1. Valorant
 2. Minecraft
 3. Bloons Tower Defense 6
@@ -24,5 +25,21 @@ You can often find me playing one of these games or reading these stories or one
 
 His drawings make the book even better, as they add even more of his personality to the book, as he draws them himself. They may not be the greatest, but its perfect for this book.
 ![image of Randall's art](otherpcitures/randall's_art.jpg)
+
+## Programming Experience
+While I am still inexperienced, I still have learned and have grown comfortable with the following languages
+- `Java`
+- `C and C++`
+- `JavaScript`
+- `html and CSS`
+
+I am still learning and actively trying to increase the size of this list
+
+## Current Goals
+These are the skills/ achievements I want to accomplish by the end of the year(not school year)
+- [] land an internship
+- [] learn and become fluent in python
+- [] become more used to and comfortable using github
+- [] Make more friends with CS and CS related backgrounds at UCSD
 
 
