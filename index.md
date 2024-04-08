@@ -50,7 +50,7 @@ These are the skills/ achievements I want to accomplish by the end of the year(n
 
 ## My Socials
 You can always message me through one of these if you want to reach me
-- ![My instagram](https://www.instagram.com/brendon_h3/)
+- [My instagram](https://www.instagram.com/brendon_h3/)
 - Discord: silverglasses
 
 
